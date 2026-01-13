@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="project.jpg" alt="LogicShelf Flowchart" width="600">
+  <img src="project .jpg" alt="LogicShelf Flowchart" width="600">
 </p>
 
 # 📚 LogicShelf - Intelligent Library Management System
