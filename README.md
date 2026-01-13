@@ -1,3 +1,5 @@
+<p align="center">
+  <img src=" project.jpg" alt="LogicShelf Flowchart" width="600"></p>
 # 📚 LogicShelf - Intelligent Library Management System
 
 **LogicShelf** is a specialized Python-based tool designed to manage personal book collections and track future reading goals through structured data workflows. This project demonstrates the application of core programming concepts to solve real-world organization challenges.
